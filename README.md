@@ -1,7 +1,7 @@
 
 # fos_builder
 
-**companon tools for Transipedia website and Reindeer.**
+**Companon tool for Transipedia website and Reindeer.**
 
 Until to version 1.0.2 of Reindeer (current version), the fos_builder script aims to add some info to Reindeer output.
 
